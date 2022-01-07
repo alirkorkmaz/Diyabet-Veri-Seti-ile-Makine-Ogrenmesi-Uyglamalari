@@ -1,0 +1,1 @@
+# Diyabet-Veri-Seti-ile-Makine-Ogrenmesi-Uyglamalari
